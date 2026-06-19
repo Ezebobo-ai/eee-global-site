@@ -16,7 +16,8 @@ export default function Hero() {
              Driving <span className="text-cyan-400">Global Digital Infrastructure</span> for the Future of Enterprise.
             </h1>
              <p className="mt-6 text-lg md:text-xl text-gray-300 max-w-2xl">
-              EEE Global delivers enterprise-grade digital, cloud, and infrastructure solutions trusted across 40+ countries to power innovation, scalability, and global growth.
+              <p className="...">
+          We design, develop, and maintain scalable digital platforms that help businesses operate efficiently, grow sustainably, and compete in today’s digital landscape.
               </p>
 
               <section className="py-20 px-6 bg-[#020617] text-center">
